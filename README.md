@@ -1,6 +1,6 @@
 # Applied-Machine-Learning
 
-Jupyter Notebook Programs for Applied Machine Learning course projects: Modules used extensively are **_numpy,panda, & matplotlib_** Data is seperated into a **_training set_** to train models and evaluated using the **_training set_**
+Jupyter Notebook Programs for Applied Machine Learning course projects: Modules used extensively are **_numpy,pandas, & matplotlib_** Data is seperated into a **_training set_** to train models and evaluated using the **_training set_**
 
 ## _regression.ipynb_
 
